@@ -1,4 +1,3 @@
-# Rainfall-Prediction
 # Rainfall Prediction using Machine Learning
 
 This project aims to predict rainfall in Sydney, Australia using historical weather data and various classification models. It was developed as a course project for Internshala Trainings' Data Science PGC program, simulating a real-world scenario for "The Daily Buzz" newspaper.
